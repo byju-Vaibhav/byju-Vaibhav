@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [vaibhavkumarverma.netlify.app](vaibhavkumarverma.netlify.app)
 
-- 📫 How to reach me **vaibhavverma15062001@gmail.com**
+- 📫 Reach me at **vaibhavverma15062001@gmail.com**
 
-- ⚡ Fun fact **I like exploring, listening songs, gaming, binge watching**
+- ⚡ **I love exploring, listening songs, gaming, binge watching**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-kr-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-kr-verma" height="30" width="40" /></a>
 <a href="https://instagram.com/web__ohhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web__ohhh" height="30" width="40" /></a>
